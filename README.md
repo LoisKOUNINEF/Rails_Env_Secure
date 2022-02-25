@@ -4,7 +4,8 @@
 
 I was kinda scared to forget this step and I definitely don't want to owe money I don't have.
 
-# Add "alias newrails='ruby Path/to/rails_secure_env.rb'" to your .zshrc or .bashrc file.
+# Create an alias
+Add "alias newrails='ruby Path/to/rails_secure_env.rb'" to your .zshrc or .bashrc file.
 
 Go in the directory where you want to create your app's folder.
 Enter command line "newrails your_app_name" and hit enter.
