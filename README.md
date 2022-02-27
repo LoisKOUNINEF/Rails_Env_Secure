@@ -12,7 +12,7 @@ Go in the directory where you want to create your app's folder.
 Enter command line "newrails your_app_name" and hit enter.
 
 ## Customize the script to fit your own needs.
-Using file.puts "..." :
+Using 'file.puts "..."'' between 'File.open' and 'file.close' :
 - Feel free to add any gems you like to use in the "add_dotenv_to_gemfile" method ;
 - Feel free to add anything you'd like to ignore in the "create_and_fill_gitignore" method ;
 - Feel free to add your keys in the "create_env" method ;
