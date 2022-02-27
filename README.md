@@ -1,5 +1,3 @@
-# `.env` must be in `.gitignore`, right?
-
 ## A little script to add `.env` in the `.gitignore` when creating a new rails app.
 
 I was kinda _scared_ to forget this step and I **_definitely_** don't want to owe money ~~I don't have~~.
