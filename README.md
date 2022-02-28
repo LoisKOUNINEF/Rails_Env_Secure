@@ -16,5 +16,5 @@ Enter command line `newrails your_app_name` and hit enter.
 Using `file.puts "..."` between `File.open` and `file.close` :
 - Feel free to add any gems you like to use in the `add_dotenv_to_gemfile` method ;
 - Feel free to add anything you'd like to ignore in the `create_and_fill_gitignore` method ;
-- Feel free to add your keys in the `create_env` method ;
+- Feel free to add your keys in the `create_env` method **be sure to only save this script _locally_ in that case** ;
 - etc.
